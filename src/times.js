@@ -31,13 +31,8 @@ const Times = () => {
   return (
     <div>
       <h1>Park Wait Times</h1>
-      <ul>
-        {parks.map((park) => (
-          <li key={park.id}>
-            <strong>{park.name}</strong> - {park.region}
-          </li>
-        ))}
-      </ul>
+      <pre>{JSON.stringify(parks, null, 2)}</pre>{" "}
+      {/* Dump the entire parks data */}
     </div>
   );
 };
