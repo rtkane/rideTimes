@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rideTimes/static/css/main.e6c13ad2.css",
-    "main.js": "/rideTimes/static/js/main.39264692.js",
+    "main.js": "/rideTimes/static/js/main.1f082846.js",
     "index.html": "/rideTimes/index.html",
     "main.e6c13ad2.css.map": "/rideTimes/static/css/main.e6c13ad2.css.map",
-    "main.39264692.js.map": "/rideTimes/static/js/main.39264692.js.map"
+    "main.1f082846.js.map": "/rideTimes/static/js/main.1f082846.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.39264692.js"
+    "static/js/main.1f082846.js"
   ]
 }
